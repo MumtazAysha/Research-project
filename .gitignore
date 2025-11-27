@@ -1,0 +1,27 @@
+# Data files
+data/
+*.csv
+*.parquet
+*.nc
+*.h5
+
+# Model files
+outputs/models/
+*.pt
+*.pth
+*.pkl
+
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Met Stations & Parameters.xlsx]]></name>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>BANDARAWELA</name>
+      <description><![CDATA[id: 43476<br>longitude: 80.9862597<br>latitude: 6.8309042<br>elevation: 1225<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43476</value>
+        </Data>
+        <Data name="longitude">
+          <value>80.9862597</value>
+        </Data>
+        <Data name="latitude">
+          <value>6.8309042</value>
+        </Data>
+        <Data name="elevation">
+          <value>1225.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          80.9862597,6.8309042,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JAFFNA</name>
+      <description><![CDATA[id: 43404<br>longitude: 80.0329471<br>latitude: 9.6938245<br>elevation: 3<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43404</value>
+        </Data>
+        <Data name="longitude">
+          <value>80.0329471</value>
+        </Data>
+        <Data name="latitude">
+          <value>9.6938245</value>
+        </Data>
+        <Data name="elevation">
+          <value>3.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          80.0329471,9.6938245,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MULLATIVE</name>
+      <description><![CDATA[id: 43410<br>longitude: 80.8192548<br>latitude: 9.2708048<br>elevation: 3<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43410</value>
+        </Data>
+        <Data name="longitude">
+          <value>80.8192548</value>
+        </Data>
+        <Data name="latitude">
+          <value>9.2708048</value>
+        </Data>
+        <Data name="elevation">
+          <value>3.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          80.8192548,9.2708048,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MANNAR</name>
+      <description><![CDATA[id: 43413<br>longitude: 79.92<br>latitude: 8.98<br>elevation: 4<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day,RH Night<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,1800,2100,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43413</value>
+        </Data>
+        <Data name="longitude">
+          <value>79.92</value>
+        </Data>
+        <Data name="latitude">
+          <value>8.98</value>
+        </Data>
+        <Data name="elevation">
+          <value>4.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day,RH Night</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,1800,2100,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          79.92,8.98,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VAVUNIYA</name>
+      <description><![CDATA[id: 43415<br>longitude: 80.4966419<br>latitude: 8.7603122<br>elevation: 98<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43415</value>
+        </Data>
+        <Data name="longitude">
+          <value>80.4966419</value>
+        </Data>
+        <Data name="latitude">
+          <value>8.7603122</value>
+        </Data>
+        <Data name="elevation">
+          <value>98.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          80.4966419,8.7603122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TRINCOMALEE</name>
+      <description><![CDATA[id: 43418<br>longitude: 81.195<br>latitude: 8.6439<br>elevation: 24<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day,RH Night<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,1800,2100,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43418</value>
+        </Data>
+        <Data name="longitude">
+          <value>81.195</value>
+        </Data>
+        <Data name="latitude">
+          <value>8.6439</value>
+        </Data>
+        <Data name="elevation">
+          <value>24.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day,RH Night</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,1800,2100,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          81.195,8.6439,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ANURADHAPURA</name>
+      <description><![CDATA[id: 43421<br>longitude: 80.415<br>latitude: 8.335<br>elevation: 92<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day,RH Night<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,1800,2100,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43421</value>
+        </Data>
+        <Data name="longitude">
+          <value>80.415</value>
+        </Data>
+        <Data name="latitude">
+          <value>8.335</value>
+        </Data>
+        <Data name="elevation">
+          <value>92.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day,RH Night</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,1800,2100,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          80.4149883,8.3333984,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MAHA ILLUPPALLAMA</name>
+      <description><![CDATA[id: 43422<br>longitude: 80.4741199<br>latitude: 8.1172811<br>elevation: 117<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43422</value>
+        </Data>
+        <Data name="longitude">
+          <value>80.4741199</value>
+        </Data>
+        <Data name="latitude">
+          <value>8.1172811</value>
+        </Data>
+        <Data name="elevation">
+          <value>117.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          80.4741199,8.1172811,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PUTTALAM</name>
+      <description><![CDATA[id: 43424<br>longitude: 79.83<br>latitude: 8.03<br>elevation: 2<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day,RH Night<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,1800,2100,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43424</value>
+        </Data>
+        <Data name="longitude">
+          <value>79.83</value>
+        </Data>
+        <Data name="latitude">
+          <value>8.03</value>
+        </Data>
+        <Data name="elevation">
+          <value>2.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day,RH Night</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,1800,2100,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          79.83,8.03,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BATTICALOA</name>
+      <description><![CDATA[id: 43436<br>longitude: 81.7<br>latitude: 7.72<br>elevation: 8<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day,RH Night<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,1800,2100,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43436</value>
+        </Data>
+        <Data name="longitude">
+          <value>81.7</value>
+        </Data>
+        <Data name="latitude">
+          <value>7.72</value>
+        </Data>
+        <Data name="elevation">
+          <value>8.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day,RH Night</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,1800,2100,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          81.7,7.72,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KURUNEGALA</name>
+      <description><![CDATA[id: 43441<br>longitude: 80.3534561<br>latitude: 7.4794462<br>elevation: 116<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day,RH Night<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,1800,2100,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43441</value>
+        </Data>
+        <Data name="longitude">
+          <value>80.3534561</value>
+        </Data>
+        <Data name="latitude">
+          <value>7.4794462</value>
+        </Data>
+        <Data name="elevation">
+          <value>116.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day,RH Night</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,1800,2100,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          80.3534561,7.4794462,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KATUGASTOTA</name>
+      <description><![CDATA[id: 43444<br>longitude: 80.63<br>latitude: 7.33<br>elevation: 417<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day,RH Night<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,1800,2100,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43444</value>
+        </Data>
+        <Data name="longitude">
+          <value>80.63</value>
+        </Data>
+        <Data name="latitude">
+          <value>7.33</value>
+        </Data>
+        <Data name="elevation">
+          <value>417.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day,RH Night</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,1800,2100,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          80.63,7.33,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KATUNAYAKA</name>
+      <description><![CDATA[id: 43450<br>longitude: 79.88<br>latitude: 7.17<br>elevation: 8<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day,RH Night<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,1800,2100,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43450</value>
+        </Data>
+        <Data name="longitude">
+          <value>79.88</value>
+        </Data>
+        <Data name="latitude">
+          <value>7.17</value>
+        </Data>
+        <Data name="elevation">
+          <value>8.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day,RH Night</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,1800,2100,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          79.88,7.17,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>COLOMBO</name>
+      <description><![CDATA[id: 43466<br>longitude: 79.8720599<br>latitude: 6.9048995<br>elevation: 7<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day,RH Night<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,1800,2100,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43466</value>
+        </Data>
+        <Data name="longitude">
+          <value>79.8720599</value>
+        </Data>
+        <Data name="latitude">
+          <value>6.9048995</value>
+        </Data>
+        <Data name="elevation">
+          <value>7.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day,RH Night</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,1800,2100,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          79.8720599,6.9048995,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NUWARA ELIYA</name>
+      <description><![CDATA[id: 43473<br>longitude: 80.78<br>latitude: 6.97<br>elevation: 1894<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day,RH Night<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,1800,2100,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43473</value>
+        </Data>
+        <Data name="longitude">
+          <value>80.78</value>
+        </Data>
+        <Data name="latitude">
+          <value>6.97</value>
+        </Data>
+        <Data name="elevation">
+          <value>1894.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day,RH Night</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,1800,2100,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          80.78,6.97,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BADULLA</name>
+      <description><![CDATA[id: 43479<br>longitude: 81.05<br>latitude: 6.98<br>elevation: 670<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43479</value>
+        </Data>
+        <Data name="longitude">
+          <value>81.05</value>
+        </Data>
+        <Data name="latitude">
+          <value>6.98</value>
+        </Data>
+        <Data name="elevation">
+          <value>670.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          81.05,6.98,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RATNAPURA</name>
+      <description><![CDATA[id: 43486<br>longitude: 80.4013733<br>latitude: 6.6772721<br>elevation: 86<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day,RH Night<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,1800,2100,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43486</value>
+        </Data>
+        <Data name="longitude">
+          <value>80.4013733</value>
+        </Data>
+        <Data name="latitude">
+          <value>6.6772721</value>
+        </Data>
+        <Data name="elevation">
+          <value>86.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day,RH Night</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,1800,2100,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          80.4013733,6.6772721,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GALLE</name>
+      <description><![CDATA[id: 43495<br>longitude: 80.214594<br>latitude: 6.0297239<br>elevation: 12<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day,RH Night<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,1800,2100,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43495</value>
+        </Data>
+        <Data name="longitude">
+          <value>80.214594</value>
+        </Data>
+        <Data name="latitude">
+          <value>6.0297239</value>
+        </Data>
+        <Data name="elevation">
+          <value>12.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day,RH Night</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,1800,2100,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          80.214594,6.0297239,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HAMBANTOTA</name>
+      <description><![CDATA[id: 43497<br>longitude: 81.1287286<br>latitude: 6.1224829<br>elevation: 16<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day,RH Night<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,1800,2100,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43497</value>
+        </Data>
+        <Data name="longitude">
+          <value>81.1287286</value>
+        </Data>
+        <Data name="latitude">
+          <value>6.1224829</value>
+        </Data>
+        <Data name="elevation">
+          <value>16.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day,RH Night</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,1800,2100,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          81.1287286,6.1224829,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>POTTUVIL</name>
+      <description><![CDATA[id: 43999<br>longitude: 81.83<br>latitude: 6.88<br>elevation: 4<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43999</value>
+        </Data>
+        <Data name="longitude">
+          <value>81.83</value>
+        </Data>
+        <Data name="latitude">
+          <value>6.88</value>
+        </Data>
+        <Data name="elevation">
+          <value>4.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          81.83,6.88,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MATTALA</name>
+      <description><![CDATA[id: 43MAT<br>longitude: 81.13<br>latitude: 6.3<br>elevation: 61<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day,RH Night<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,1800,2100,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43MAT</value>
+        </Data>
+        <Data name="longitude">
+          <value>81.13</value>
+        </Data>
+        <Data name="latitude">
+          <value>6.3</value>
+        </Data>
+        <Data name="elevation">
+          <value>61.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day,RH Night</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,1800,2100,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          81.13,6.3,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MONARAGALA</name>
+      <description><![CDATA[id: 43MMM<br>longitude: 81.3156141<br>latitude: 6.8355124<br>elevation: 165<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43MMM</value>
+        </Data>
+        <Data name="longitude">
+          <value>81.3156141</value>
+        </Data>
+        <Data name="latitude">
+          <value>6.8355124</value>
+        </Data>
+        <Data name="elevation">
+          <value>165.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          81.3156141,6.8355124,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>POLONNARUWA</name>
+      <description><![CDATA[id: 43PPP<br>longitude: 81.05<br>latitude: 7.87<br>elevation: 43<br>Parameters Daily & Monthly: Temp Max,Temp min,Rainfall,RH Day<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): 0000,0300,0600,0900,1200,1500,]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43PPP</value>
+        </Data>
+        <Data name="longitude">
+          <value>81.05</value>
+        </Data>
+        <Data name="latitude">
+          <value>7.87</value>
+        </Data>
+        <Data name="elevation">
+          <value>43.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>Temp Max,Temp min,Rainfall,RH Day</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value>0000,0300,0600,0900,1200,1500,</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          81.05,7.87,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RATMALANA</name>
+      <description><![CDATA[id: 43467<br>longitude: 79.88861<br>latitude: 6.82108<br>elevation: 5<br>Parameters Daily & Monthly: TempMax,Temp Min,Rainfall,RH Day,Rh Night<br>Parameters 3 hourly: RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather<br>Obsevation times( UTC ): ]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43467</value>
+        </Data>
+        <Data name="longitude">
+          <value>79.88861</value>
+        </Data>
+        <Data name="latitude">
+          <value>6.82108</value>
+        </Data>
+        <Data name="elevation">
+          <value>5.0</value>
+        </Data>
+        <Data name="Parameters Daily & Monthly">
+          <value>TempMax,Temp Min,Rainfall,RH Day,Rh Night</value>
+        </Data>
+        <Data name="Parameters 3 hourly">
+          <value><![CDATA[RH,Dry temp,Wet temp,Wind (Sp & Dir), Pressure(msl & sl),Visibility,Cloud Rainfall,Weather]]></value>
+        </Data>
+        <Data name="Obsevation times( UTC )">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          79.88861,6.82108,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
